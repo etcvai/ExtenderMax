@@ -1,4 +1,4 @@
-# ExtenderMax's Premium BDIX Connected (m3u/m3u8) Playlist:
+# ExtenderMax's Premium All In One BDIX(m3u/m3u8) Playlist:
 
 
 Playlist Link- https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8
