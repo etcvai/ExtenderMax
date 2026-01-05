@@ -6,6 +6,8 @@ Playlist Link- https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/m
 
 ~ Access it from OTT NAVIGATOR (Recommanded) or Any Other IPTV PLAYER.
 
+Join: @extendermaxtg (TG)
+
 This is a premium m3u/m3u8 playlist. It's Open Source But Don't use any code without permission of the owner (@etcavi) TG :-)
 Give Respects to Others, Take Owns Also.
 
