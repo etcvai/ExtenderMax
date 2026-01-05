@@ -319,9 +319,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/139204_english_hls_1ebe611e3851403_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="FCBD Fancode-Tennis", Centre Court - Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
 https://bd-mc-fdlive.fancode.com/mumbai/139283_english_hls_ea5c6b725a48855_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg" group-title="FCBD Fancode-Cricket", Noakhali Express vs Sylhet Titans (Bangladesh Premier League- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138930_english_hls_57b78a095b30592_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="CRICHD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -3559,7 +3556,7 @@ https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
 https://ml-pull-hwc.myco.io/hydertvcanada/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250529%2Fmycolive-myco_Sports_247jpeg-1748514767310.webp&w=3840&q=30" group-title="myCo LIVE Channels",myco sports 24/7
 https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
-# Last Updated Time : 2026-01-05 15:29:21 (BD)
+# Last Updated Time : 2026-01-05 15:54:11 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL SPECIAL BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -3582,17 +3579,17 @@ https://bd-mc-fdlive.fancode.com/mumbai/138930_english_hls_57b78a095b30592_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="BPL SPECIAL Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=9lTbc1uX7CzHJESDqFIpyQ&expires=1767609202
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=YEv1EBh1uduJu18mhU4tZQ&expires=1767612715
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="BPL SPECIAL Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=lJOrR8Au6vTp2N7OxRZ1eA&expires=1767609202
+https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=ZtzHntQ06UOFEWzB_Fj5Gg&expires=1767612715
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="BPL SPECIAL Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=SHF1rT846fGmPmjh1spj9A&expires=1767609202
+https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=6yvCzvHPMNmE1OmVdHA6IQ&expires=1767612715
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="BPL SPECIAL sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=50ab33b151f4a9a0bd75dfc818ab71dd2d6dae4b-f279ec63e84f57f079edb9cdf18e7212-1767605426-1767601826
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=ccf84de8a30034d4b72bbfda5880d7f56305970e-6f0002b01c74dc8157bed868f75550c7-1767607105-1767603505
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL SPECIAL BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL SPECIAL BPL 2026",BPL 2026
