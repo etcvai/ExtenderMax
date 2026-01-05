@@ -11,4 +11,4 @@ Give Respects to Others, Take Owns Also.
 
 
 Disclaimer:
-Contents Comtain Here, All is From Open Source & Copyright Goes To The Respective Owner. If You Have Any Compliment Plz @etcvai(TG). Thank You.
+Contents Contain Here, All is From Open Source & Copyright Goes To The Respective Owner. If You Have Any Compliment Plz @etcvai(TG). Thank You.
