@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: terabox-jwplayer
-    env: node
-    plan: free
-    buildCommand: "npm install"
-    startCommand: "node server.js"
