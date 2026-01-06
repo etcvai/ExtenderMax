@@ -3927,3 +3927,531 @@ http://stvlive.net:8080/sonyaath/index.m3u8
 http://stvlive.net:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="http://stvlive.net/assets/images/Zee Bangla1759068299.png" group-title="STV ISP* Bangla",Zee Bangla
 http://103.175.242.10:8080/zeebangla/index.m3u8
+#EXTINF:-1,&Prive group-title="REAL IP 4K" HD - Rs 6.00
+http://103.178.78.151:7505/play/a13g/index.m3u8
+#EXTINF:-1,&flix group-title="REAL IP 4K" HD - Rs 19.00
+http://103.178.78.151:7505/play/a15k/index.m3u8
+#EXTINF:-1,&pictures group-title="REAL IP 4K" - Rs 15.00
+http://103.178.78.151:7505/play/a1sp/index.m3u8
+#EXTINF:-1,&pictures group-title="REAL IP 4K" HD - Rs 19.00
+http://103.178.78.151:7505/play/a0vx/index.m3u8
+#EXTINF:-1,&tv group-title="REAL IP 4K" - Rs 10.00
+http://103.178.78.151:7505/play/a1sb/index.m3u8
+#EXTINF:-1,&tv group-title="REAL IP 4K" HD - Rs 19.00
+http://103.178.78.151:7505/play/a0vy/index.m3u8
+#EXTINF:-1,24 group-title="REAL IP 4K" News HD
+http://103.178.78.151:7505/play/a04c/index.m3u8
+#EXTINF:-1,7 group-title="REAL IP 4K" NEWS
+http://103.178.78.151:7505/play/a1vw/index.m3u8
+#EXTINF:-1,92 group-title="REAL IP 4K" Entertainment
+http://103.178.78.151:7505/play/a1w7/index.m3u8
+#EXTINF:-1,92 group-title="REAL IP 4K" News HD
+http://103.178.78.151:7505/play/a1w5/index.m3u8
+#EXTINF:-1,9X group-title="REAL IP 4K" JALWA
+http://103.178.78.151:7505/play/a0hz/index.m3u8
+#EXTINF:-1,9X group-title="REAL IP 4K" JHAKAAS
+http://103.178.78.151:7505/play/a0hx/index.m3u8
+#EXTINF:-1,9X group-title="REAL IP 4K" TASHAN
+http://103.178.78.151:7505/play/a114/index.m3u8
+#EXTINF:-1,9XM group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0i8/index.m3u8
+#EXTINF:-1,A group-title="REAL IP 4K" Sports HD
+http://103.178.78.151:7505/play/a1bt/index.m3u8
+#EXTINF:-1,AAN group-title="REAL IP 4K" TV - HD
+http://103.178.78.151:7505/play/a1ca/index.m3u8
+#EXTINF:-1,ACTION group-title="REAL IP 4K" CINEMA
+http://103.178.78.151:7505/play/a1u9/index.m3u8
+#EXTINF:-1,ALL group-title="REAL IP 4K" TIME MOVIES
+http://103.178.78.151:7505/play/a0pb/index.m3u8
+#EXTINF:-1,APLUS group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a14/index.m3u8
+#EXTINF:-1,ARUJ group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1v4/index.m3u8
+#EXTINF:-1,ARY group-title="REAL IP 4K" Music
+http://103.178.78.151:7505/play/a1bn/index.m3u8
+#EXTINF:-1,ARY group-title="REAL IP 4K" NEWS
+http://103.178.78.151:7505/play/a1bo/index.m3u8
+#EXTINF:-1,ARY group-title="REAL IP 4K" QTV
+http://103.178.78.151:7505/play/a1bm/index.m3u8
+#EXTINF:-1,ARYDigitalAsia group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a1bp/index.m3u8
+#EXTINF:-1,Aaj group-title="REAL IP 4K" Enter
+http://103.178.78.151:7505/play/a1au/index.m3u8
+#EXTINF:-1,Aaj group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a1ap/index.m3u8
+#EXTINF:-1,Aaj group-title="REAL IP 4K" Tak HD - Rs 2.50
+http://103.178.78.151:7505/play/a1qe/index.m3u8
+#EXTINF:-1,Al group-title="REAL IP 4K" Ehsaan Tv
+http://103.178.78.151:7505/play/a17d/index.m3u8
+#EXTINF:-1,Al group-title="REAL IP 4K" Ekhbaria HD
+http://103.178.78.151:7505/play/a19m/index.m3u8
+#EXTINF:-1,Al group-title="REAL IP 4K" Zahra
+http://103.178.78.151:7505/play/a1wg/index.m3u8
+#EXTINF:-1,Alief group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a0iw/index.m3u8
+#EXTINF:-1,All group-title="REAL IP 4K" Time Movies
+http://103.178.78.151:7505/play/a1ud/index.m3u8
+#EXTINF:-1,Anmol group-title="REAL IP 4K" Cinema - Rs 0
+http://103.178.78.151:7505/play/a1p2/index.m3u8
+#EXTINF:-1,Anmol group-title="REAL IP 4K" Cinema 2 - Rs 0
+http://103.178.78.151:7505/play/a1x7/index.m3u8
+#EXTINF:-1,Arsh group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/asd1/index.m3u8
+#EXTINF:-1,Ary group-title="REAL IP 4K" zindagi
+http://103.178.78.151:7505/play/a1bl/index.m3u8
+#EXTINF:-1,Aur group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1my/index.m3u8
+#EXTINF:-1,B group-title="REAL IP 4K" MAX TV
+http://103.178.78.151:7505/play/a1wh/index.m3u8
+#EXTINF:-1,B4U group-title="REAL IP 4K" BHOJPURI
+http://103.178.78.151:7505/play/a1iz/index.m3u8
+#EXTINF:-1,B4U group-title="REAL IP 4K" KADAK
+http://103.178.78.151:7505/play/a1wy/index.m3u8
+#EXTINF:-1,B4U group-title="REAL IP 4K" KADAK
+http://103.178.78.151:7505/play/a1tw/index.m3u8
+#EXTINF:-1,B4U group-title="REAL IP 4K" MUSIC
+http://103.178.78.151:7505/play/a1ub/index.m3u8
+#EXTINF:-1,B4U group-title="REAL IP 4K" Movies
+http://103.178.78.151:7505/play/a1uc/index.m3u8
+#EXTINF:-1,BBC group-title="REAL IP 4K" News - Rs 1.50
+http://103.178.78.151:7505/play/a1d4/index.m3u8
+#EXTINF:-1,BOL group-title="REAL IP 4K" Entertainment
+http://103.178.78.151:7505/play/a1b7/index.m3u8
+#EXTINF:-1,BOL group-title="REAL IP 4K" News Urdu
+http://103.178.78.151:7505/play/a1b8/index.m3u8
+#EXTINF:-1,Balle group-title="REAL IP 4K" Balle Non-Stop Music
+http://103.178.78.151:7505/play/a0jp/index.m3u8
+#EXTINF:-1,Bethat group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a17j/index.m3u8
+#EXTINF:-1,Big group-title="REAL IP 4K" Magic
+http://103.178.78.151:7505/play/a1tv/index.m3u8
+#EXTINF:-1,CH-11 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1w6/index.m3u8
+#EXTINF:-1,CHAUPAAL group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0cy/index.m3u8
+#EXTINF:-1,CINE group-title="REAL IP 4K" MAX
+http://103.178.78.151:7505/play/a1ib/index.m3u8
+#EXTINF:-1,CITY group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a149/index.m3u8
+#EXTINF:-1,CITY-21 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a04h/index.m3u8
+#EXTINF:-1,CITY-41 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a04e/index.m3u8
+#EXTINF:-1,CITY-42 group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a04d/index.m3u8
+#EXTINF:-1,CNBC group-title="REAL IP 4K" Awaaz - Rs 0.10
+http://103.178.78.151:7505/play/a1lx/index.m3u8
+#EXTINF:-1,COLORS group-title="REAL IP 4K" RISHTEY
+http://103.178.78.151:7505/play/a1u6/index.m3u8
+#EXTINF:-1,Capital group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1bc/index.m3u8
+#EXTINF:-1,Cartoon group-title="REAL IP 4K" Network - Rs 4.75
+http://103.178.78.151:7505/play/a0uy/index.m3u8
+#EXTINF:-1,Cartoon group-title="REAL IP 4K" Network HD+ - Rs 7.00
+http://103.178.78.151:7505/play/a1qc/index.m3u8
+#EXTINF:-1,Champion group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1ih/index.m3u8
+#EXTINF:-1,Channel group-title="REAL IP 4K" 89
+http://103.178.78.151:7505/play/a1vj/index.m3u8
+#EXTINF:-1,Channel5 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1mx/index.m3u8
+#EXTINF:-1,Cineplex group-title="REAL IP 4K" Bollywood
+http://103.178.78.151:7505/play/a1x0/index.m3u8
+#EXTINF:-1,Cineplex group-title="REAL IP 4K" Bollywood
+http://103.178.78.151:7505/play/a1uj/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" - Rs 19.00
+http://103.178.78.151:7505/play/a1sd/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" Cineplex - Rs 15.00
+http://103.178.78.151:7505/play/a1ot/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" Cineplex Bollywood - Rs 0.10
+http://103.178.78.151:7505/play/a1af/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" Cineplex HD - Rs 19.00
+http://103.178.78.151:7505/play/a1c0/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" Cineplex HD - Rs 19.00 (clone)
+http://103.178.78.151:7505/play/a1x4/index.m3u8
+#EXTINF:-1,Colors group-title="REAL IP 4K" HD - Rs 19.00
+http://103.178.78.151:7505/play/a0uj/index.m3u8
+#EXTINF:-1,DABANGG group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0ib/index.m3u8
+#EXTINF:-1,DD group-title="REAL IP 4K" Punjabi
+http://103.178.78.151:7505/play/a1vn/index.m3u8
+#EXTINF:-1,DHAMAAL group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0hy/index.m3u8
+#EXTINF:-1,Dangal group-title="REAL IP 4K" 2
+http://103.178.78.151:7505/play/a1tx/index.m3u8
+#EXTINF:-1,Dawn group-title="REAL IP 4K" News HD
+http://103.178.78.151:7505/play/a1dm/index.m3u8
+#EXTINF:-1,Discover group-title="REAL IP 4K" Pakistan
+http://103.178.78.151:7505/play/a1b1/index.m3u8
+#EXTINF:-1,Discovery group-title="REAL IP 4K" - Rs 4.00
+http://103.178.78.151:7505/play/a1s0/index.m3u8
+#EXTINF:-1,Discovery group-title="REAL IP 4K" HD - Rs 8.00
+http://103.178.78.151:7505/play/a12u/index.m3u8
+#EXTINF:-1,Discovery group-title="REAL IP 4K" Kids - Rs 3.50
+http://103.178.78.151:7505/play/a10w/index.m3u8
+#EXTINF:-1,Discovery group-title="REAL IP 4K" Science - Rs 1.00
+http://103.178.78.151:7505/play/a12v/index.m3u8
+#EXTINF:-1,Discovery group-title="REAL IP 4K" Turbo - Rs 1.00
+http://103.178.78.151:7505/play/a0v5/index.m3u8
+#EXTINF:-1,Disney group-title="REAL IP 4K" Channel - Rs 12.00
+http://103.178.78.151:7505/play/a1ly/index.m3u8
+#EXTINF:-1,Disney group-title="REAL IP 4K" Junior - Rs 4.00
+http://103.178.78.151:7505/play/a157/index.m3u8
+#EXTINF:-1,Dunya group-title="REAL IP 4K" News HD
+http://103.178.78.151:7505/play/a0tu/index.m3u8
+#EXTINF:-1,E1 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wv/index.m3u8
+#EXTINF:-1,EXP group-title="REAL IP 4K" ENTERTAINMENT
+http://103.178.78.151:7505/play/a0tw/index.m3u8
+#EXTINF:-1,EXP group-title="REAL IP 4K" NEWS
+http://103.178.78.151:7505/play/a0tx/index.m3u8
+#EXTINF:-1,Elan group-title="REAL IP 4K" tv
+http://103.178.78.151:7505/play/a1ww/index.m3u8
+#EXTINF:-1,Eurosport group-title="REAL IP 4K" HD - Rs 6.00
+http://103.178.78.151:7505/play/a1gk/index.m3u8
+#EXTINF:-1,FILMAX group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1va/index.m3u8
+#EXTINF:-1,FILMAZIA group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1v9/index.m3u8
+#EXTINF:-1,FILMAZIA group-title="REAL IP 4K" PUNJABI
+http://103.178.78.151:7505/play/a1v5/index.m3u8
+#EXTINF:-1,GEM group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1nw/index.m3u8
+#EXTINF:-1,GNN group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a1bi/index.m3u8
+#EXTINF:-1,GOD group-title="REAL IP 4K" STANDS TV
+http://103.178.78.151:7505/play/a1w0/index.m3u8
+#EXTINF:-1,GOLDMINES group-title="REAL IP 4K" MOVIES
+http://103.178.78.151:7505/play/a0pc/index.m3u8
+#EXTINF:-1,Geo group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a1ne/index.m3u8
+#EXTINF:-1,Geo group-title="REAL IP 4K" Tez
+http://103.178.78.151:7505/play/a1ng/index.m3u8
+#EXTINF:-1,Global group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a1nu/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wz/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0pf/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K" 2
+http://103.178.78.151:7505/play/a0pd/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K" Action
+http://103.178.78.151:7505/play/a1hc/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K" Bollywood
+http://103.178.78.151:7505/play/a1x1/index.m3u8
+#EXTINF:-1,Goldmines group-title="REAL IP 4K" Bollywood
+http://103.178.78.151:7505/play/a0pe/index.m3u8
+#EXTINF:-1,GreenEnt group-title="REAL IP 4K" - HD
+http://103.178.78.151:7505/play/a0tt/index.m3u8
+#EXTINF:-1,HADI group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1v7/index.m3u8
+#EXTINF:-1,HUM group-title="REAL IP 4K" NEWS HD
+http://103.178.78.151:7505/play/a0mg/index.m3u8
+#EXTINF:-1,HUM group-title="REAL IP 4K" SITARAY
+http://103.178.78.151:7505/play/a0mi/index.m3u8
+#EXTINF:-1,Hidayat group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a17i/index.m3u8
+#EXTINF:-1,History group-title="REAL IP 4K" TV18 HD - Rs 7.00
+http://103.178.78.151:7505/play/a0vt/index.m3u8
+#EXTINF:-1,Hoora group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1vh/index.m3u8
+#EXTINF:-1,INDIA group-title="REAL IP 4K" TODAY - Rs 1.80
+http://103.178.78.151:7505/play/a1pa/index.m3u8
+#EXTINF:-1,INPLUS group-title="REAL IP 4K" Pakistan
+http://103.178.78.151:7505/play/a1bb/index.m3u8
+#EXTINF:-1,Investigation group-title="REAL IP 4K" Discovery - Rs 1.00
+http://103.178.78.151:7505/play/a1gm/index.m3u8
+#EXTINF:-1,Jan group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1o0/index.m3u8
+#EXTINF:-1,KSA group-title="REAL IP 4K" SPORT1 HD
+http://103.178.78.151:7505/play/a0p6/index.m3u8
+#EXTINF:-1,KSA group-title="REAL IP 4K" SPORT2 HD
+http://103.178.78.151:7505/play/a0p7/index.m3u8
+#EXTINF:-1,KSA group-title="REAL IP 4K" SPORTS 3 HD
+http://103.178.78.151:7505/play/a0p8/index.m3u8
+#EXTINF:-1,Kidzone group-title="REAL IP 4K" Pakistan
+http://103.178.78.151:7505/play/a1ba/index.m3u8
+#EXTINF:-1,Kohenoor group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1vc/index.m3u8
+#EXTINF:-1,LIFE group-title="REAL IP 4K" NEWS
+http://103.178.78.151:7505/play/a1kr/index.m3u8
+#EXTINF:-1,LTN group-title="REAL IP 4K" FAMILY
+http://103.178.78.151:7505/play/a12w/index.m3u8
+#EXTINF:-1,Lahore group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a0tv/index.m3u8
+#EXTINF:-1,Lahore group-title="REAL IP 4K" Rang HD
+http://103.178.78.151:7505/play/a0ts/index.m3u8
+#EXTINF:-1,Live group-title="REAL IP 4K" Times
+http://103.178.78.151:7505/play/a1j0/index.m3u8
+#EXTINF:-1,M-Life group-title="REAL IP 4K" TEST
+http://103.178.78.151:7505/play/a1cd/index.m3u8
+#EXTINF:-1,M-News group-title="REAL IP 4K" TEST
+http://103.178.78.151:7505/play/a1cc/index.m3u8
+#EXTINF:-1,M-Sports group-title="REAL IP 4K" TEST
+http://103.178.78.151:7505/play/a1ce/index.m3u8
+#EXTINF:-1,M-World group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wc/index.m3u8
+#EXTINF:-1,MADANI group-title="REAL IP 4K" TV C-Band
+http://103.178.78.151:7505/play/a0tq/index.m3u8
+#EXTINF:-1,MANORANJAN group-title="REAL IP 4K" GRAND
+http://103.178.78.151:7505/play/a1uf/index.m3u8
+#EXTINF:-1,MASALA group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a0mh/index.m3u8
+#EXTINF:-1,MASTIII group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0i9/index.m3u8
+#EXTINF:-1,MAX group-title="REAL IP 4K" TV USA
+http://103.178.78.151:7505/play/a1nt/index.m3u8
+#EXTINF:-1,MEGA group-title="REAL IP 4K" MOVIES
+http://103.178.78.151:7505/play/a1ny/index.m3u8
+#EXTINF:-1,MINIMAX group-title="REAL IP 4K" 2
+http://103.178.78.151:7505/play/a17k/index.m3u8
+#EXTINF:-1,MNX group-title="REAL IP 4K" - Rs 5.00
+http://103.178.78.151:7505/play/a1px/index.m3u8
+#EXTINF:-1,MTV group-title="REAL IP 4K" HD - Rs 2.00
+http://103.178.78.151:7505/play/a13y/index.m3u8
+#EXTINF:-1,MUN group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a1aw/index.m3u8
+#EXTINF:-1,MUN group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1xa/index.m3u8
+#EXTINF:-1,Maha group-title="REAL IP 4K" Max
+http://103.178.78.151:7505/play/a1ns/index.m3u8
+#EXTINF:-1,Manoranjan group-title="REAL IP 4K" Movies
+http://103.178.78.151:7505/play/a1u0/index.m3u8
+#EXTINF:-1,Manoranjan group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1u3/index.m3u8
+#EXTINF:-1,Metro1 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1bf/index.m3u8
+#EXTINF:-1,Movie group-title="REAL IP 4K" one UK
+http://103.178.78.151:7505/play/a1ij/index.m3u8
+#EXTINF:-1,Movies group-title="REAL IP 4K" Now HD - Rs 14.00
+http://103.178.78.151:7505/play/a1fl/index.m3u8
+#EXTINF:-1,Music group-title="REAL IP 4K" India
+http://103.178.78.151:7505/play/a1wx/index.m3u8
+#EXTINF:-1,Music group-title="REAL IP 4K" Masti
+http://103.178.78.151:7505/play/a1nz/index.m3u8
+#EXTINF:-1,NATIONAL group-title="REAL IP 4K" GEOGRAPHIC HD - Rs 14.00
+http://103.178.78.151:7505/play/a12o/index.m3u8
+#EXTINF:-1,NEO group-title="REAL IP 4K" NEWS HD
+http://103.178.78.151:7505/play/a0tr/index.m3u8
+#EXTINF:-1,NEWS group-title="REAL IP 4K" ONE
+http://103.178.78.151:7505/play/a1ay/index.m3u8
+#EXTINF:-1,NOOR group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1nr/index.m3u8
+#EXTINF:-1,NOOR group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a023/index.m3u8
+#EXTINF:-1,Nat group-title="REAL IP 4K" Geo Wild HD - Rs 8.00
+http://103.178.78.151:7505/play/a0vg/index.m3u8
+#EXTINF:-1,Nick group-title="REAL IP 4K"  - Rs 6.00
+http://103.178.78.151:7505/play/a0v1/index.m3u8
+#EXTINF:-1,Nick group-title="REAL IP 4K" Jr. - Rs 1.00
+http://103.178.78.151:7505/play/a0uu/index.m3u8
+#EXTINF:-1,ON group-title="REAL IP 4K" NEWS HD
+http://103.178.78.151:7505/play/a1im/index.m3u8
+#EXTINF:-1,PAKISTAN group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1us/index.m3u8
+#EXTINF:-1,PITAARA group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a0hv/index.m3u8
+#EXTINF:-1,PLANET6 group-title="REAL IP 4K" TEST
+http://103.178.78.151:7505/play/a1cb/index.m3u8
+#EXTINF:-1,PRIME group-title="REAL IP 4K" BOX HD
+http://103.178.78.151:7505/play/a1nv/index.m3u8
+#EXTINF:-1,PTV-FEED group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wo/index.m3u8
+#EXTINF:-1,PTV-Global group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a020/index.m3u8
+#EXTINF:-1,PTV-Home group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a01y/index.m3u8
+#EXTINF:-1,PTV-NEWS group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a01z/index.m3u8
+#EXTINF:-1,PTV-SPORTS-HD group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a04y/index.m3u8
+#EXTINF:-1,Paigham group-title="REAL IP 4K" Pashto
+http://103.178.78.151:7505/play/a1wj/index.m3u8
+#EXTINF:-1,Pakistan group-title="REAL IP 4K" 1
+http://103.178.78.151:7505/play/a1wd/index.m3u8
+#EXTINF:-1,Pashto group-title="REAL IP 4K" 1
+http://103.178.78.151:7505/play/a1vd/index.m3u8
+#EXTINF:-1,Planet group-title="REAL IP 4K" Fun
+http://103.178.78.151:7505/play/a1b9/index.m3u8
+#EXTINF:-1,Play group-title="REAL IP 4K" Entertainment HD
+http://103.178.78.151:7505/play/a1mw/index.m3u8
+#EXTINF:-1,Pogo group-title="REAL IP 4K" - Rs 4.75
+http://103.178.78.151:7505/play/a0ut/index.m3u8
+#EXTINF:-1,Public group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a0ns/index.m3u8
+#EXTINF:-1,Punjabi group-title="REAL IP 4K" Hits
+http://103.178.78.151:7505/play/a0jr/index.m3u8
+#EXTINF:-1,QURAN group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a17c/index.m3u8
+#EXTINF:-1,ROHI group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a09t/index.m3u8
+#EXTINF:-1,Romedy group-title="REAL IP 4K" Now - Rs 5.00
+http://103.178.78.151:7505/play/a12t/index.m3u8
+#EXTINF:-1,S.MAX group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a1wp/index.m3u8
+#EXTINF:-1,SAMAA group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1vb/index.m3u8
+#EXTINF:-1,SAUDI group-title="REAL IP 4K" CH For Quran HD
+http://103.178.78.151:7505/play/a0p4/index.m3u8
+#EXTINF:-1,SAUDI group-title="REAL IP 4K" CH For Sunnah HD
+http://103.178.78.151:7505/play/a0p5/index.m3u8
+#EXTINF:-1,SAUDI group-title="REAL IP 4K" TV HD
+http://103.178.78.151:7505/play/a0p1/index.m3u8
+#EXTINF:-1,SBC group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a19l/index.m3u8
+#EXTINF:-1,SET group-title="REAL IP 4K" - Rs 19.00
+http://103.178.78.151:7505/play/a1sa/index.m3u8
+#EXTINF:-1,SET group-title="REAL IP 4K" Entertainment
+http://103.178.78.151:7505/play/a0cv/index.m3u8
+#EXTINF:-1,SET group-title="REAL IP 4K" HD - Rs 19.00
+http://103.178.78.151:7505/play/a0uc/index.m3u8
+#EXTINF:-1,SHEMAROO group-title="REAL IP 4K" MARATHIBANA
+http://103.178.78.151:7505/play/a1iy/index.m3u8
+#EXTINF:-1,SHEMAROO group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1w9/index.m3u8
+#EXTINF:-1,SHEMAROO group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1uh/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" BBC EARTH HD - Rs 19.00
+http://103.178.78.151:7505/play/a0vu/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" MAX - Rs 19.00
+http://103.178.78.151:7505/play/a1vx/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" MAX 2 - Rs 1.00
+http://103.178.78.151:7505/play/a0uo/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" MAX HD - Rs 19.00
+http://103.178.78.151:7505/play/a1bx/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" PAL
+http://103.178.78.151:7505/play/a1tu/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" PIX HD - Rs 19.00
+http://103.178.78.151:7505/play/a0vl/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SAB - Rs 19.00
+http://103.178.78.151:7505/play/a1s7/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SAB HD - Rs 19.00
+http://103.178.78.151:7505/play/a0ul/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SPORTS TEN 1 - Rs 19.00
+http://103.178.78.151:7505/play/a1qd/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SPORTS TEN 2 HD - Rs 19.00
+http://103.178.78.151:7505/play/a16t/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SPORTS TEN 3 Hindi - Rs 19.00
+http://103.178.78.151:7505/play/a1pv/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" SPORTS TEN 5 HD - Rs 25.00
+http://103.178.78.151:7505/play/a1qa/index.m3u8
+#EXTINF:-1,SONY group-title="REAL IP 4K" YAY! - Rs 4.00
+http://103.178.78.151:7505/play/a0ux/index.m3u8
+#EXTINF:-1,STAR group-title="REAL IP 4K" GOLD HD - Rs 19.00
+http://103.178.78.151:7505/play/a0um/index.m3u8
+#EXTINF:-1,STAR group-title="REAL IP 4K" Movies HD - Rs 19.00
+http://103.178.78.151:7505/play/a1ge/index.m3u8
+#EXTINF:-1,STAR group-title="REAL IP 4K" Movies Select HD - Rs 19.00
+http://103.178.78.151:7505/play/a1gd/index.m3u8
+#EXTINF:-1,STAR group-title="REAL IP 4K" Plus HD
+http://103.178.78.151:7505/play/a0uh/index.m3u8
+#EXTINF:-1,STAR group-title="REAL IP 4K" UTSAV MOVIES
+http://103.178.78.151:7505/play/a1ug/index.m3u8
+#EXTINF:-1,STN group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1in/index.m3u8
+#EXTINF:-1,SUNO group-title="REAL IP 4K" NEWS-HD
+http://103.178.78.151:7505/play/a1nh/index.m3u8
+#EXTINF:-1,Sab group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1bj/index.m3u8
+#EXTINF:-1,Saudia group-title="REAL IP 4K" Alaan TV HD
+http://103.178.78.151:7505/play/a0p3/index.m3u8
+#EXTINF:-1,See group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1wb/index.m3u8
+#EXTINF:-1,Shemaroo group-title="REAL IP 4K" Classic
+http://103.178.78.151:7505/play/a0ph/index.m3u8
+#EXTINF:-1,Shemaroo group-title="REAL IP 4K" JOSH
+http://103.178.78.151:7505/play/a1u8/index.m3u8
+#EXTINF:-1,Showbox group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1ua/index.m3u8
+#EXTINF:-1,Silver group-title="REAL IP 4K" Screen
+http://103.178.78.151:7505/play/a1ik/index.m3u8
+#EXTINF:-1,Sindh group-title="REAL IP 4K" News
+http://103.178.78.151:7505/play/a1vf/index.m3u8
+#EXTINF:-1,Sindh group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1ve/index.m3u8
+#EXTINF:-1,Sky group-title="REAL IP 4K" Cinema
+http://103.178.78.151:7505/play/a1ws/index.m3u8
+#EXTINF:-1,Sonic group-title="REAL IP 4K" - Rs 1.00
+http://103.178.78.151:7505/play/a19i/index.m3u8
+#EXTINF:-1,Sonic group-title="REAL IP 4K" Nickelodeon - Rs 1.00
+http://103.178.78.151:7505/play/a15y/index.m3u8
+#EXTINF:-1,Sony group-title="REAL IP 4K" Wah
+http://103.178.78.151:7505/play/a1u5/index.m3u8
+#EXTINF:-1,Special group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1bh/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Bharat HD - Rs 19.00
+http://103.178.78.151:7505/play/a1qb/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Gold 2 - Rs 3.00
+http://103.178.78.151:7505/play/a0un/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Gold Romance - Rs 2.00
+http://103.178.78.151:7505/play/a0uw/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Gold Select HD - Rs 8.00
+http://103.178.78.151:7505/play/a0vv/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Gold Thrills - Rs 2.00
+http://103.178.78.151:7505/play/a0uk/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" News Asia
+http://103.178.78.151:7505/play/a1we/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports 1 HD - Rs 19.00
+http://103.178.78.151:7505/play/a0ui/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports 1 Hindi - Rs 19.00
+http://103.178.78.151:7505/play/a1n9/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports 1 Hindi HD - Rs 19.00
+http://103.178.78.151:7505/play/a1bw/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports 2 Hindi - Rs 19.00
+http://103.178.78.151:7505/play/a1vs/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports 2 Hindi HD - Rs 19.00
+http://103.178.78.151:7505/play/a1lw/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports Select 1 HD - Rs 19.00
+http://103.178.78.151:7505/play/a0w8/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" Sports Select 2 HD - Rs 15.00
+http://103.178.78.151:7505/play/a0w9/index.m3u8
+#EXTINF:-1,Star group-title="REAL IP 4K" tv
+http://103.178.78.151:7505/play/a1wu/index.m3u8
+#EXTINF:-1,Starlite group-title="REAL IP 4K" TV
+http://103.178.78.151:7505/play/a1wf/index.m3u8
+#EXTINF:-1,TIME group-title="REAL IP 4K" NEWS HD
+http://103.178.78.151:7505/play/a1xb/index.m3u8
+#EXTINF:-1,TIME group-title="REAL IP 4K" NEWS HD
+http://103.178.78.151:7505/play/a1ax/index.m3u8
+#EXTINF:-1,TLC group-title="REAL IP 4K" HD - Rs 3.00
+http://103.178.78.151:7505/play/a0vf/index.m3u8
+#EXTINF:-1,TV group-title="REAL IP 4K" ONE
+http://103.178.78.151:7505/play/a1az/index.m3u8
+#EXTINF:-1,TV2DAY group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1mv/index.m3u8
+#EXTINF:-1,Tata group-title="REAL IP 4K" Play Bollywood Premiere HD
+http://103.178.78.151:7505/play/a1vu/index.m3u8
+#EXTINF:-1,Thikrayat group-title="REAL IP 4K" HD
+http://103.178.78.151:7505/play/a0p2/index.m3u8
+#EXTINF:-1,UK-44 group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wk/index.m3u8
+#EXTINF:-1,VSH group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1vg/index.m3u8
+#EXTINF:-1,Venus group-title="REAL IP 4K" Entertainment
+http://103.178.78.151:7505/play/a1ck/index.m3u8
+#EXTINF:-1,WASEB group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1b0/index.m3u8
+#EXTINF:-1,Wow group-title="REAL IP 4K" Cinema One
+http://103.178.78.151:7505/play/a0jm/index.m3u8
+#EXTINF:-1,ZEE group-title="REAL IP 4K" ANMOL
+http://103.178.78.151:7505/play/a1ue/index.m3u8
+#EXTINF:-1,ZEE group-title="REAL IP 4K" ANMOL CINEMA
+http://103.178.78.151:7505/play/a1u4/index.m3u8
+#EXTINF:-1,Zee group-title="REAL IP 4K" Bollywood - Rs 3.00
+http://103.178.78.151:7505/play/a0yq/index.m3u8
+#EXTINF:-1,Zee group-title="REAL IP 4K" Cinema HD - Rs 19.00
+http://103.178.78.151:7505/play/a0wb/index.m3u8
+#EXTINF:-1,Zee group-title="REAL IP 4K" Classic - Rs 0.10
+http://103.178.78.151:7505/play/a16r/index.m3u8
+#EXTINF:-1,Zee group-title="REAL IP 4K" TV - Rs 19.00
+http://103.178.78.151:7505/play/a1s8/index.m3u8
+#EXTINF:-1,Zee group-title="REAL IP 4K" TV HD - Rs 19.00
+http://103.178.78.151:7505/play/a0v3/index.m3u8
+#EXTINF:-1,Zoom group-title="REAL IP 4K" - Rs 0.50
+http://103.178.78.151:7505/play/a1qs/index.m3u8
+#EXTINF:-1,cinemovie group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wq/index.m3u8
+#EXTINF:-1,filmasia group-title="REAL IP 4K"
+http://103.178.78.151:7505/play/a1wt/index.m3u8
+#EXTINF:-1,iFilm group-title="REAL IP 4K" English
+http://103.178.78.151:7505/play/a17p/index.m3u8
