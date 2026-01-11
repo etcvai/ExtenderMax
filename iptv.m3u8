@@ -291,12 +291,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131015_5427_LE_ESL_fc-Web.png" group-title="FanCoBD", Levante vs RCD Espanyol (LALIGA 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/131015_english_hls_27d76e09c376425_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139266_5822_THA-U23_IRQ-U23_fc-web.jpg" group-title="FanCoBD", Thailand U23 vs Iraq U23 (AFC U23 Asian Cup- 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139266_english_hls_73633f62bb88096_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138939_5808_NOE_DC_fc-web_1766733054389.jpg" group-title="FanCoBD", Noakhali Express vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CRICHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -1420,30 +1414,37 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" ,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="SONAY EVENTS", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="SONAY EVENTS", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [HIN] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="SONAY EVENTS", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TAM] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="SONAY EVENTS", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TEL] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698953696649_SLvsPAK26_3t20i_6jan_landscape_thumb.jpg" group-title="SONAY EVENTS", 3rd T20I - 11 Jan 2026 [ENG] - Pakistan Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767865953725351_Bundesliga_MD16_Bayern-Munich-vs-VfL-Wolfsburg_landscape_thumb.jpg" group-title="SONAY EVENTS", Bayern Munich vs VfL Wolfsburg - MD 16 - 11 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767951041188145_FA_CUP_26_RD3_West-Ham-Utd-vs-Queens-Park-Rangers_9jan_Landscape_thumb.jpg" group-title="SONAY EVENTS", West Ham United vs Queens Park Rangers - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192344~acl=/*~id=86446073728453451658927654640709~hmac=411782c3f2af3ec8b5a4b793d1113328c861c0543ced70e86d40d9c3740cecb5
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767865726779351_Bundesliga_MD16_Borussia-Mgladbach-vs-FC-Augsburg_landscape_thumb.jpg" group-title="SONAY EVENTS", Borussia M'gladbach vs FC Augsburg - MD 16 - 11 Jan 2026 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768192954~acl=/*~id=46071584780340700313150214137647~hmac=bf89d13b6e6c9d64a36c358db06226048e82893fe29120f73e733da2ddd58722
 
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/08129954254217b9def84f92073a60b7.jpg", Bundesliga: Borussia M'gladbach vs Augsburg
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/02/4bb5079c21632a5867d5dcbf77c9a6e0.jpg", LaLiga: Levante vs Espanyol
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg", FA Cup: Manchester United vs Brighton
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/ffa1d99413b724f13576e532e9e3de02.jpg", Bundesliga: Bayern Munich vs Wolfsburg
+https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260107%2Fmycolive-WhatsApp_Image_2026-01-07_at_8.37.18_PM-1767800832661.webp&w=3840&q=30" group-title="myCo LIVE",HBL PSL 11 Auction | Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io
 https://ml-pull-rtmp-pk1.myco.io/PSL11/hls/index.m3u8
@@ -1503,7 +1504,7 @@ https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20240920%2Fmycolive-thumb2jpg-1726843385402.webp&w=3840&q=30" group-title="myCo LIVE",CGTN Arabic
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
-# Last Updated Time : 2026-01-11 22:14:13 (BD)
+# Last Updated Time : 2026-01-11 22:40:38 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL SPECIAL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -1513,10 +1514,10 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL SPECIAL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138939_5808_NOE_DC_fc-web_1766733054389.jpg" group-title="BPL SPECIAL", Noakhali Express vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-di_h264/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka, -2026-match-card-old-.png" group-title="BPL SPECIAL"- Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka- 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768180736~acl=/*~id=17488846285144300947196624871338~hmac=046f3525d1968c1cffea16ec7e3876091a5078834f7b7eb6d69ed40c8dea0612
+#EXTINF:-1,tvg-logo="https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png" group-title="BPL SPECIAL", Liverpool Women vs London City Lionesses (Women's Super League 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="BPL SPECIAL",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -1530,15 +1531,15 @@ https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=Y9q__xq53txtZFd0hLrYgg
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=-aJfApOcFRwhroK9jZ42zw&expires=1768153238
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="BPL SPECIAL",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768147825&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=290008698c4baafde061da58143f9d06
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768155154&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=35f107eafc93ec09fb40f412cd9e9fac
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="BPL SPECIAL",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1768147828&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=789c783de9086f653f8b770f0365f8b1
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768155155&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5065d18094bdcbff3489d30a1fb39c5f
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="BPL SPECIAL",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768147850&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c0f6d0f4f5f7517d65c557dca41374bb
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768155173&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1f65d5e57b96ee3e1192c31c4c07cf99
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="BPL SPECIAL",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="BPL SPECIAL",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=f9facf15675e9a7a49c6930f96c698652f36ca04-d48817bb1bed6d793f7a9435afad5abf-1768149811-1768146211
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=0f8a01d6d25bf253b61fb10d261b5502abb63d3d-6ceb54aa84d312cbce46fd9f8568bda3-1768150621-1768147021
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL SPECIAL",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL SPECIAL",BPL 2026
