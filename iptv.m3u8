@@ -285,6 +285,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-web.jpg" group-title="FanCoBD", Senegal vs Egypt (Africa Cup of Nations 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138391_english_hls_468a4aabcc41921_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-vs-Al-Taawoun_Web.jpg" group-title="FanCoBD", Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139359_english_hls_7a1b5dc1bf4570_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="CRICHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -1588,24 +1591,18 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" ,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136708974648_bliga26_MD17_VfL_Wolfsburg_vs_St_Pauli_11jan_landscape_thumb.jpg" group-title="SONAY EVENTS", VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768455461~acl=/*~id=83421219534049483076336516331617~hmac=00bf327f3a0309c406651d58552107238a26f1457fed9e1d7b377e6a1d1fc2d0
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456071~acl=/*~id=60186068578050280296569591680570~hmac=3a095bac8333dbb3ce329067b258437500b35c0e69ae42d36c72c2a4402fd659
 
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg", NBA: New Orleans Pelicans vs Denver Nuggets
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/7c0607c7dcfc3d3749b75e2c5ff02f91.jpg", NBA: Houston Rockets vs Chicago Bulls
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/3d81ba3ca1ce0e5190919dd7389aa43d.jpg", NBA: Milwaukee Bucks vs Minnesota Timberwolves
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg", NBA: LA Lakers vs Atlanta Hawks
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/6af8b55866d8d519e8ca4f8c53351018.jpg", NBA: Golden State Warriors vs Portland Trail Blazers
 https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v New Zealand: India vs New Zealand
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/02/13ccc02da9f3169ada118fbe03162407.jpg", AFCON: Senegal vs Egypt
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/3f8941543102963ee5652528779d5ccc.jpg", Serie A: Napoli vs Parma
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/f6234c7965d02ea43b7a6f8f9fbe10a3.jpg", Bundesliga: Wolfsburg vs St. Pauli
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="AI SPORTS" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/02/f706db3cdff1199a41d541a2c192c753.jpg", AFCON: Nigeria vs Morocco
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20260107%2Fmycolive-WhatsApp_Image_2026-01-07_at_8.37.18_PM-1767800832661.webp&w=3840&q=30" group-title="myCo LIVE",HBL PSL 11 Auction | Live on myco
