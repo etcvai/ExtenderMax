@@ -3733,72 +3733,72 @@ https://edge2.roarzone.info:444/roarzone/edge2/ekhontv/index.m3u8?token=5fe8f07d
 #EXTINF:-1 group-title="ROAR ISP*" tvg-logo="https://tvassets.roarzone.info/images/bijoy-tv.jpg",bijoy-tv
 https://edge2.roarzone.info:444/roarzone/ext/bijoy-tv/index.m3u8?token=70207d4ed263f608fd2eabed5cc9c6526411b85f-f9a3a14eec9955dc91e1b96061deb745-1768408478-1768397678
 
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="SPORTS DRM", Willow HD
+#EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="EXTRA", Willow HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6e5c8033a76eaa14cf5f043c63684c6:45a1607cbb02e1a1f673bae2e607bbd4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jmjjscadmf/out/v1/911c6ff00f1a45258e7944abf338702b/cenc.mpd
 
-#EXTINF:-1 tvg-id="Nba" tvg-logo="https://i.postimg.cc/RZHNT7Fy/National-Basketball-Association-logo.jpg" group-title="SPORTS DRM", Nba HD
+#EXTINF:-1 tvg-id="Nba" tvg-logo="https://i.postimg.cc/RZHNT7Fy/National-Basketball-Association-logo.jpg" group-title="EXTRA", Nba HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="SPORTS DRM", Tnt1 HD
+#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="EXTRA", Tnt1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="SPORTS DRM", Tnt2 HD
+#EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="EXTRA", Tnt2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="SPORTS DRM", Tnt3 HD
+#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="EXTRA", Tnt3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt4" tvg-logo="https://iili.io/dIH6g0G.png" group-title="SPORTS DRM", Tnt4 HD
+#EXTINF:-1 tvg-id="Tnt4" tvg-logo="https://iili.io/dIH6g0G.png" group-title="EXTRA", Tnt4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://iili.io/HpZ3vrx.png" group-title="SPORTS DRM", Eurosport1 HD
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://iili.io/HpZ3vrx.png" group-title="EXTRA", Eurosport1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://iili.io/HpZ3SdQ.png" group-title="SPORTS DRM", Eurosport2 HD
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://iili.io/HpZ3SdQ.png" group-title="EXTRA", Eurosport2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Beinsports1" tvg-logo="https://iili.io/HpLlECJ.png" group-title="SPORTS DRM", Beinsports1 HD
+#EXTINF:-1 tvg-id="Beinsports1" tvg-logo="https://iili.io/HpLlECJ.png" group-title="EXTRA", Beinsports1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="Beinsports2" tvg-logo="https://iili.io/HpLl0Qa.png" group-title="SPORTS DRM", Beinsports2 HD
+#EXTINF:-1 tvg-id="Beinsports2" tvg-logo="https://iili.io/HpLl0Qa.png" group-title="EXTRA", Beinsports2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="Beinsports3" tvg-logo="https://iili.io/HpLlGEv.png" group-title="SPORTS DRM", Beinsports3 HD
+#EXTINF:-1 tvg-id="Beinsports3" tvg-logo="https://iili.io/HpLlGEv.png" group-title="EXTRA", Beinsports3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="Fubosports" tvg-logo="https://i.postimg.cc/tTTbBbk0/rv0XWn48d-Vz-ATzu4IZHTBXb-RMb-92PMy-B8l-AIUfu-V-QA2nm-GF2i4VBdh-FH88CO5Ptt8.jpg" group-title="SPORTS DRM", Fubosports HD
+#EXTINF:-1 tvg-id="Fubosports" tvg-logo="https://i.postimg.cc/tTTbBbk0/rv0XWn48d-Vz-ATzu4IZHTBXb-RMb-92PMy-B8l-AIUfu-V-QA2nm-GF2i4VBdh-FH88CO5Ptt8.jpg" group-title="EXTRA", Fubosports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="Stansports" tvg-logo="https://i.postimg.cc/L6BH4xn0/e-Zv5m-Pjpu-Tze-UJ-LZilidr-HQ2Wd-EJQ8ia1gd-ZBS9yq9vep-A44u-Ax1ga-O6IRSdccwwx-Qpsh51i-RM-s900-c-k-c0x.jpg" group-title="SPORTS DRM", Stansports HD
+#EXTINF:-1 tvg-id="Stansports" tvg-logo="https://i.postimg.cc/L6BH4xn0/e-Zv5m-Pjpu-Tze-UJ-LZilidr-HQ2Wd-EJQ8ia1gd-ZBS9yq9vep-A44u-Ax1ga-O6IRSdccwwx-Qpsh51i-RM-s900-c-k-c0x.jpg" group-title="EXTRA", Stansports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d7323b1dc94aefb93575777fc39f88:921a0f8dd21e57ab2daeb26b952a96f9
 https://awslive01.stan.video/out/v1/9fabd94957f74cb1965cabd9c8f411e3/index.mpd
 
-#EXTINF:-1 tvg-id="Spotv2" tvg-logo="https://i.ibb.co/KGK6MNF/Picsart-24-07-27-01-35-56-981.png" group-title="SPORTS DRM", Spotv2 HD
+#EXTINF:-1 tvg-id="Spotv2" tvg-logo="https://i.ibb.co/KGK6MNF/Picsart-24-07-27-01-35-56-981.png" group-title="EXTRA", Spotv2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
