@@ -11,4 +11,4 @@ Join: @opensourceflix(TG)
 
 
 Disclaimer:
-Contents Contain Here, All is From Open Source & Multiple Owner. So All of These is Free For All. Copyright Goes To The Respective Owner. If You Have Any Compliment Plz @ctevai(TG). Thank You.
+Contents Contain Here, All is From Open Source & Multiple Owner. So All of These is Free For All. Copyright Goes To The Respective Owner. If You Have Any Compliment Plz Feel Free to Connect @ctevai(TG). Thank You.
