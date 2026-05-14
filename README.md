@@ -2,6 +2,8 @@
 
 
 Playlist Link- (https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8)
+Short URL (For TV)
+(https://osflix.s.gy/tv)
 
 
 ~ Access it from OTT NAVIGATOR (https://t.me/opensourceflix/205) (Recommanded) or Any Other IPTV PLAYER.
