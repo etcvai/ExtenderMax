@@ -4,7 +4,14 @@
 Playlist Link- (https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/iptv.m3u8)
 
 
-~ Access it from OTT NAVIGATOR (Recommanded) or Any Other IPTV PLAYER.
+~ Access it from OTT NAVIGATOR (https://t.me/opensourceflix/205) (Recommanded) or Any Other IPTV PLAYER.
+
+ON PC 💻🖥️✅/ PC USER
+
+For all playlist Use This Player 
+
+https://github.com/glitport/AuthoIPTV/wiki/Downloads
+
 
 Join: @opensourceflix(TG)
 
