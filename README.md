@@ -6,7 +6,7 @@ Short URL (For TV)
 (https://osflix.s.gy/tv)
 
 
-~ Access it from OTT NAVIGATOR (https://t.me/opensourceflix/205) (Recommanded) or Any Other IPTV PLAYER.
+~ Access it from OTT NAVIGATOR ([https://t.me/opensourceflix/205](https://github.com/opensourceflix/Friday/raw/refs/heads/main/OTT%20Navigator_v1.7.5.1.apk)) (Recommanded) or Any Other IPTV PLAYER.
 
 ON PC 💻🖥️✅/ PC USER
 
